@@ -1,0 +1,79 @@
+body {
+    font-family: sans-serif;
+}
+header {
+    background-color:  lightblue;
+}
+header a {
+    background-color: white;
+    color: blueviolet;
+}
+h1 {
+    text-align: center;
+    border: 2px solid lightgreen;
+    background-color: steelblue;
+    font-size: 30px;
+}
+footer {
+    background-color: skyblue;
+    border: 2px solid lightcyan;
+}
+footer p {
+    background-color: lightcyan;
+    padding: 5px;
+    margin: 5px;
+}
+nav {
+    background-color: lightcyan;
+    margin: 10px;
+    border: 2px dotted black;
+    padding: 9px;
+}
+nav a {
+    margin: 35px;
+    padding: 20px;
+    text-decoration: crossed;
+    color: black;
+}
+.fireworks {
+    border: 3px solid black;
+    background-color: lightgreen;
+}
+p {
+    font-size: 20px;
+}
+a {
+    font-size: 20px;
+}
+.ram {
+    font-size: 50px;
+    color: blue;
+}
+.Bruh {
+    border: 1px solid cyan;
+    border-radius: 1px;
+}
+.bro {
+    text-decoration: none;
+    font-size: 20px;
+    border: 4px solid black;
+    padding: 8px;
+}
+.bop {
+    font-size: 40px;
+    color: blue;
+}
+.dingdong {
+    font-size: 40px;
+    color: blue;
+}
+.lol {
+    text-decoration: none;
+    font-size: 18px;
+    border: 4px solid black;
+    padding: 6px;
+}
+.bap {
+    font-size: 53px;
+    color:blue;
+}
